@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726929691480",
+    "firebase_url": "https://waitlist-d3dbb-default-rtdb.firebaseio.com",
+    "project_id": "waitlist-d3dbb",
+    "storage_bucket": "waitlist-d3dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726929691480:android:d61f931f2c25302e8e0b2d",
+        "android_client_info": {
+          "package_name": "com.example.waitlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726929691480-c1r7seffk8io4aaufdnruqcvjjc78nfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waitlist",
+            "certificate_hash": "ce10dea1ce0f0a19048d891c8c325252efc65bba"
+          }
+        },
+        {
+          "client_id": "726929691480-0296ji850m9r7rbholt0l1ki0rcsh2pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_QQ3_QH1UFnb8NlzOGy9la3W7RsIFt5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726929691480-0296ji850m9r7rbholt0l1ki0rcsh2pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
