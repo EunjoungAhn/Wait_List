@@ -94,7 +94,6 @@ public class Booking_check extends AppCompatActivity {
         NewRunnable nr = new NewRunnable();
         t = new Thread(nr);
         t.start();
-
     }//onCreate
 
     public void dataRead() {
